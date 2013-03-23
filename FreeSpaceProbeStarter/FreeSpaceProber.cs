@@ -140,7 +140,7 @@ namespace FreeSpaceProbeStarter
                 doc.Save(@"C:\FreeSpaceProber\Details.xml");
             }
             else
-                MessageBox.Show("קובץ פרטים לא קיים. נא למלא פרטים וללחוץ על הפעלת שירות");
+                MessageBox.Show(".קובץ פרטים לא קיים. נא למלא פרטים וללחוץ על הפעלת שירות");
         }
     }
 }
